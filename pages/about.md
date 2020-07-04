@@ -1,0 +1,20 @@
+---
+layout: page
+title: About
+permalink: /about/
+weight: 3
+---
+
+# **About Me**
+
+Hi! We are **{{ site.author.name }}** :wave:,<br>
+We're a student club (actually organisation) in Manipal Institute of Technology. 
+
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
