@@ -1,11 +1,11 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
+name: Covid-19 Tracker
+tools: [ReactJS, Bootstrap, HTML, CSS]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: It is a web application which was created to keep a track of Covid-19 cases all over the world. The site is updated everyday with number of new cases tested everyday.
 ---
 
-# The Movies Project
+# Covid-19 Tracker
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
