@@ -1,7 +1,7 @@
 ---
 name: Realtime Facetime Expression Detector
 tools: [opencv, tensorflow]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: assets/images/facial_recog.png
 description: Realtime facial expression detector using Tensorflow and OpenCV (webcam input)
 ---
 
