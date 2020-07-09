@@ -7,10 +7,10 @@ description: It is a web application which was created to keep a track of Covid-
 
 # Covid-19 Tracker
 
-With the rapid increase of number of Covid-19 cases all over the world, it is important to keep a note on condition of various countries and
+By Making an ept use of technology we made a covid 19 tracker website .It is of the prime importance to be abreast with the current covid scenario in various countries . We used the covid API to import the current information of covid cases in myriad of countries and bring it to you.
 
 ![preview](assets/images/covid_2.jpeg)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/IEEE-SBM20-21/Covid-tracker" text="Learn More" %}
+{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
 </p>
