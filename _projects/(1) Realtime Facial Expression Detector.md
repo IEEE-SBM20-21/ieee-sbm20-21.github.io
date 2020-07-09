@@ -7,8 +7,6 @@ description: Realtime facial expression detector using Tensorflow and OpenCV (we
 
 # Realtime Facial Expression Detector
 
-	
-
 ## Features
 
 An adroit facial expression recognition system that captures your realtime face expression using OpenCV and tensorflow . One of the wide spectrum use of Artificial Intelligence and Machine Learning.
