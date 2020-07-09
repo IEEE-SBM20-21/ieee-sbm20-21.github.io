@@ -5,7 +5,7 @@ image: assets/images/autonomous_bot.jpeg
 description: A dexterous autonomous obstacle avoiding bot
 ---
 
-# Realtime Facial Expression Detector
+# Autonomous Arduino Bot
 
 ## Features
 

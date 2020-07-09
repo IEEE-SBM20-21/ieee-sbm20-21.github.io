@@ -5,7 +5,7 @@ image: assets/images/slideshow.jpeg
 description: Want to remotely control the slideshow with mere smartphone swipes??
 ---
 
-# Covid-19 Tracker
+# Smart Phone SlideShow Controller
 
 It remotely controls our slideshow with mere smartphone swipes. It uses nodejs and socket.io to set up a bi-directional communication between web clients and servers.
 
