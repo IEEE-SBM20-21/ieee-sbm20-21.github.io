@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : IEEE SBM Projects
+title               : Projects by IEEE SBM members
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : IEEE-SBM20-21/ieee-sbm20-21.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
