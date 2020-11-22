@@ -13,9 +13,9 @@ The board has 4 layers with dedicated power and ground planes to minimize induct
 The development board also has an ADXL345 accelerometer onboard. This will allow the board to be used with any robotics/drone projects that we might undertake in the future. We have also included a 128 mb flash memory IC to facilitate data logging and allow for larger programs to be run on the device.
 
 <p float="left">
-  <img src="assets/images/prime_six2.png" width="100" />
-  <img src="assets/images/prime_six3.png" width="100" /> 
-  <img src="assets/images/prime_six4.png" width="100" /> 
+  <img src="{{site.baseurl}}/assets/images/prime_six2.png" width="100" />
+  <img src="{{site.baseurl}}/assets/images/prime_six3.png" width="100" /> 
+  <img src="{{site.baseurl}}/assets/images/prime_six4.png" width="100" /> 
 </p>
 
 ## Contributors
