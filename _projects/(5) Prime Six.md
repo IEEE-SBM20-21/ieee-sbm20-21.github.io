@@ -18,6 +18,8 @@ The development board also has an ADXL345 accelerometer onboard. This will allow
   <img src="{{site.baseurl}}/assets/images/prime_six4.png" width="100" /> 
 </p>
 
+![alt-text-1]({{site.baseurl}}/assets/images/prime_six2.png "title-1") ![alt-text-2]({{site.baseurl}}/assets/images/prime_six3.png "title-2")
+
 ## Contributors
  - Abhishree Shaw
  - Bhavya Manglik
