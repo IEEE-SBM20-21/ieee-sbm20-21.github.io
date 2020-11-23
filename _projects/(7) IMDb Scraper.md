@@ -14,3 +14,4 @@ IMDb Scraper using Python Libraries (Beautiful Soup, requests, csv) and hence us
 <p class="text-center">
 {% include elements/button.html link="https://github.com/IEEE-SBM20-21/IMDb-Web-Scraper" text="Learn More" %}
 </p>
+

@@ -1,6 +1,6 @@
 ---
 name: AQI Sraper
-tools: [python, pandas, numpy]
+tools: [python, pandas, numpy, sklearn, ml]
 image: assets/images/air_1.jpeg
 description: IMDb Scraper built in python
 ---
